@@ -1,0 +1,6 @@
+# documentazione
+## descrizione progetto
+Il lavoro in compresenza con i professori di matematica e coding dell'anno scolastico 2021/2022 darà come prodotto: un codice risolutore che genera tutte le possibili combinazioni di lettere che formulano solo parole di senso compiuto nella lingua italiana; la probabilità di errore è pari a zero poichè il codice ha un confronto istantaneo con un file contenente tutti i termini in italiano. Lo scopo principale è quello di fondere l'argomento matematico: lo studio del calcolo combinatorio, con l'argomento di coding: stesura di un codice Python (linguaggio di programmazione).
+
+## descrizione gioco
+Sullo sfondo di ciò che è stato detto in precedenza, l'intenzione è quella di creare un gioco interagendo sia con il computer che con il codice: La mia idea era quella in cui il giocatore dovrà trascrivere il maggior numero di parole possibili utilizzando lettere generate randomicamente dalla macchina. Ogni parola di senso computo sarà contrassegnata da un punteggio prestabilito e raggiunta una determinata soglia si supererà il livello.
